@@ -18,4 +18,4 @@ app.use('/api/v1/', todos);
 
 app.listen(3000, function(){
     console.log('Server started');
-})
+});
